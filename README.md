@@ -1,12 +1,8 @@
 <p align="left">
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-R2022a%2B-blue" alt="MATLAB"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-success" alt="License: MIT"></a>
-  <img src="https://img.shields.io/badge/maintained-yes-informational" alt="Maintained">
+  <img src="https://img.shields.io/github/last-commit/gordonmurray-coding/trajectory-simulation" alt="GitHub last commit">
 </p>
-
-![MATLAB](https://img.shields.io/badge/MATLAB-R2022a+-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/<your-username>/<repo>)
 
 # Trajectory Simulation
 
@@ -20,6 +16,7 @@ MATLAB scripts for generating and comparing trajectories against truth data.
 
 ## Quickstart
 ```matlab
+% From this repo folder
 run_demo
 ```
 
@@ -36,8 +33,8 @@ run_demo
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/gordonmurray-coding/trajectory-simulation.git
+cd trajectory-simulation
 ```
 
 
