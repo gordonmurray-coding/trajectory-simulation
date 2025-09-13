@@ -6,13 +6,7 @@
 
 # Trajectory Simulation
 
-MATLAB scripts for generating and comparing trajectories against truth data.
-
-## Contents
-- `scripts/Trajectory_generator.m`
-- `scripts/Trajectory_generator_ver2.m`
-- `scripts/Distance_checker_tool_v1.m`
-- `scripts/fence_generator.m`
+Reproducible MATLAB demo that compares **truth** vs **simulation** trajectories and produces ready-to-use figures for portfolios/READMEs.
 
 ## Quickstart
 ```matlab
