@@ -10,8 +10,8 @@ Reproducible MATLAB demo that compares **truth** vs **simulation** trajectories 
 
 ## Quickstart
 ```matlab
-% From this repo folder
-run_demo
+# from the repo root (e.g., trajectory-simulation/)
+matlab -batch "run_demo"
 ```
 
 ## Example Results
